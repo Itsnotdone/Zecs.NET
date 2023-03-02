@@ -1,0 +1,12 @@
+C:\Users\Marcin\Documents\zecs\bin\Debug\net7.0\zecs.deps.json
+C:\Users\Marcin\Documents\zecs\bin\Debug\net7.0\zecs.dll
+C:\Users\Marcin\Documents\zecs\bin\Debug\net7.0\zecs.pdb
+C:\Users\Marcin\Documents\zecs\obj\Debug\net7.0\zecs.csproj.AssemblyReference.cache
+C:\Users\Marcin\Documents\zecs\obj\Debug\net7.0\zecs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\Documents\zecs\obj\Debug\net7.0\zecs.AssemblyInfoInputs.cache
+C:\Users\Marcin\Documents\zecs\obj\Debug\net7.0\zecs.AssemblyInfo.cs
+C:\Users\Marcin\Documents\zecs\obj\Debug\net7.0\zecs.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Documents\zecs\obj\Debug\net7.0\zecs.dll
+C:\Users\Marcin\Documents\zecs\obj\Debug\net7.0\refint\zecs.dll
+C:\Users\Marcin\Documents\zecs\obj\Debug\net7.0\zecs.pdb
+C:\Users\Marcin\Documents\zecs\obj\Debug\net7.0\ref\zecs.dll
